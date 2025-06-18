@@ -26,3 +26,4 @@ print(student["nationality"])
 #Typecasting - Converting one datatype to another
 print(float(number))
 print(int(second))
+print(int(number))
