@@ -7,7 +7,6 @@ if age > 18:
 else:
     print("Your not a voter")
 
-
 #Program 2
 temperature=float(input("Enter current room temperature eg 23.0:"))
 
@@ -36,6 +35,23 @@ elif second>first and second>third:
 
 else:
     print(third,"is the largest number")
+
+
+#Program4
+age=float(input("Enter your age"))
+
+if age==18:
+    print("is a voter")
+elif age>=18:
+    print("is a voter")
+else:
+    print("not a voter")
+
+
+
+
+
+
 
 
 

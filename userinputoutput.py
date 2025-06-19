@@ -2,7 +2,7 @@
 firstname=input("Kindly enter your firstname:")
 print("Firstname:",firstname)
 
-lastname=input("KIndly enter your lastname:")
+lastname=input("Kindly enter your lastname:")
 print("Lastname:",lastname)
 
 print()
@@ -15,3 +15,6 @@ print("You are",age, "years old")
 
 weight=float(input("Kindly enter your weight:"))
 print("You are",weight,"kg")
+
+age=float(input("Enter your age"))
+print("Your are",age,"years old")
