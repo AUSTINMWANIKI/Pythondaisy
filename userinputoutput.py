@@ -18,3 +18,6 @@ print("You are",weight,"kg")
 
 age=float(input("Enter your age"))
 print("Your are",age,"years old")
+
+colour=input("Enter your favourite colour:")
+print("My favourite clour is",colour)

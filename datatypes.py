@@ -13,7 +13,8 @@ student={
     "lastname"  :"Smith",
     "age": 21,
     "nationality": "Kenyan",
-}#Dictionary - Key-value pair
+}
+#Dictionary - Key-value pair
 
 print(number)
 print(isPythonIntresting)

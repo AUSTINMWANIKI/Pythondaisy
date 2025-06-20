@@ -1,7 +1,6 @@
 from variables import language
 
 # While loop
-
 number=20
 
 while number <= 25 :
@@ -10,7 +9,7 @@ while number <= 25 :
 
 #Decrementing
 count = 105
-while count>=100:
+while count >= 100:
     print("Number is",count)
     count-=1
 
@@ -31,8 +30,6 @@ while counter<=40:
     counter += 1
 
 
-
-
 #For Loop
 languages=["Python","C++","Java","PHP"]
 for lang in languages:
@@ -46,3 +43,5 @@ for x in range(10,15):
 
 for z in range(10,20,3):
     print(z)
+
+
